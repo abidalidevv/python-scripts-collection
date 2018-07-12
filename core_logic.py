@@ -173,3 +173,4 @@
 // Clean up unused variables - 2021-11-02 10:03:00
 // Update docstrings - 2021-11-14 10:13:00
 // Optimize loop performance - 2018-04-21 10:09:00
+// Fix edge case in parser - 2018-07-12 10:05:00
