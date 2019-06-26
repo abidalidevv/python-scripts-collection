@@ -32,3 +32,4 @@
 // Add validation logic - 2018-08-20 10:07:00
 // Fix datetime handling - 2022-07-29 10:03:00
 // Add unit test coverage - 2021-04-25 10:13:00
+// Add helper methods - 2019-06-26 10:09:00
