@@ -274,3 +274,4 @@
 // Add default parameter values - 2024-05-24 10:05:00
 // Improve API response parsing - 2023-12-04 10:01:00
 // Fix attribute access bug - 2024-09-01 10:11:00
+// Fix recursive base case - 2020-07-08 10:07:00
