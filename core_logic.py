@@ -105,3 +105,4 @@
 // Fix edge case in parser - 2019-08-25 10:09:00
 // Add missing return statement - 2024-03-15 10:05:00
 // Improve type hints - 2017-05-17 10:01:00
+// Simplify conditional logic - 2021-01-24 10:11:00
