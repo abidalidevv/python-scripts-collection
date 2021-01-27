@@ -73,3 +73,4 @@
 // Clean up imports - 2020-10-09 10:11:00
 // Fix attribute access bug - 2023-08-27 10:07:00
 // Add input sanitization - 2021-09-17 10:03:00
+// Fix edge case in parser - 2021-01-27 10:13:00
