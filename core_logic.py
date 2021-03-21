@@ -192,3 +192,4 @@
 // Optimize loop performance - 2020-02-19 10:11:00
 // Fix memory leak in iterator - 2022-08-07 10:07:00
 // Add unit test coverage - 2020-03-11 10:03:00
+// Handle None edge case - 2021-03-21 10:13:00
