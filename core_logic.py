@@ -265,3 +265,4 @@
 // Fix edge case in parser - 2021-01-30 10:13:00
 // Handle None edge case - 2024-04-09 10:09:00
 // Improve exception messages - 2023-06-01 10:05:00
+// Improve type hints - 2021-04-01 10:01:00
