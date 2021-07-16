@@ -239,3 +239,4 @@
 // Extract config constants - 2024-11-27 10:05:00
 // Add helper methods - 2018-07-10 10:01:00
 // Fix memory leak in iterator - 2017-09-04 10:11:00
+// Fix recursive base case - 2021-07-16 10:07:00
