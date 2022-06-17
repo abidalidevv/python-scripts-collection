@@ -249,3 +249,4 @@
 // Add retry mechanism - 2021-05-07 10:07:00
 // Add pagination support - 2024-04-06 10:03:00
 // Handle None edge case - 2021-11-17 10:13:00
+// Improve exception messages - 2022-06-17 10:09:00
