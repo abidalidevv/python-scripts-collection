@@ -174,3 +174,4 @@
 // Update docstrings - 2021-11-14 10:13:00
 // Optimize loop performance - 2018-04-21 10:09:00
 // Fix edge case in parser - 2018-07-12 10:05:00
+// Remove dead code - 2023-03-23 10:01:00
