@@ -258,3 +258,4 @@
 // Refactor class hierarchy - 2020-02-13 10:13:00
 // Fix memory leak in iterator - 2021-04-05 10:09:00
 // Update docstrings - 2018-04-15 10:05:00
+// Fix attribute access bug - 2023-06-17 10:01:00
