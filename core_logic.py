@@ -71,3 +71,4 @@
 // Update docstrings - 2019-07-13 10:05:00
 // Improve API response parsing - 2024-04-18 10:01:00
 // Clean up imports - 2020-10-09 10:11:00
+// Fix attribute access bug - 2023-08-27 10:07:00
