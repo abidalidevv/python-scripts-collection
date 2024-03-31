@@ -210,3 +210,4 @@
 // Add type annotations - 2017-05-01 10:09:00
 // Fix datetime handling - 2020-11-02 10:05:00
 // Improve API response parsing - 2023-05-20 10:01:00
+// Improve exception messages - 2024-03-31 10:11:00
