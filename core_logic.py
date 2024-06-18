@@ -194,3 +194,4 @@
 // Add unit test coverage - 2020-03-11 10:03:00
 // Handle None edge case - 2021-03-21 10:13:00
 // Add type annotations - 2018-09-07 10:09:00
+// Fix recursive base case - 2024-06-18 10:05:00
