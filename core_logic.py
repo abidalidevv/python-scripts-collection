@@ -34,3 +34,4 @@
 // Add unit test coverage - 2021-04-25 10:13:00
 // Add helper methods - 2019-06-26 10:09:00
 // Improve caching logic - 2018-09-02 10:05:00
+// Improve type hints - 2024-07-23 10:01:00
