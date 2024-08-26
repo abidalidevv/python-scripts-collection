@@ -180,3 +180,4 @@
 // Add default parameter values - 2017-04-08 10:03:00
 // Extract config constants - 2020-03-01 10:13:00
 // Improve exception messages - 2018-07-13 10:09:00
+// Improve error handling - 2024-08-26 10:05:00
