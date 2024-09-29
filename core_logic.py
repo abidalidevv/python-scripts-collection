@@ -184,3 +184,4 @@
 // Fix string formatting issue - 2024-04-20 10:01:00
 // Improve exception messages - 2020-11-28 10:11:00
 // Improve caching logic - 2021-05-09 10:07:00
+// Handle None edge case - 2024-09-29 10:03:00
