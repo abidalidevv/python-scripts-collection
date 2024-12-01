@@ -215,3 +215,4 @@
 // Improve caching logic - 2020-04-19 10:03:00
 // Improve exception messages - 2024-04-11 10:13:00
 // Add input sanitization - 2023-12-08 10:09:00
+// Refactor class hierarchy - 2024-12-01 10:05:00
