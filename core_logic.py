@@ -341,3 +341,7 @@ def flatten(nested):
         if isinstance(item, list): result.extend(flatten(item))
         else: result.append(item)
     return result
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
