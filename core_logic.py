@@ -508,3 +508,6 @@ def parse_bool(v):
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
