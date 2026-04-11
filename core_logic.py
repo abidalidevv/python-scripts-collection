@@ -529,3 +529,6 @@ def deep_merge(base, override):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
