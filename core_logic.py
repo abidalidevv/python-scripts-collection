@@ -532,3 +532,7 @@ def format_date(dt):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
